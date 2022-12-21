@@ -16,3 +16,9 @@ Our IRC channels are #teamutils, #teamutils-bugs, and #teamutils-staff (invite-o
 
 ## Channel operators/voiced users
 Operators are only used for kicking/banning and other irc changes only. Voiced and OPed users are staff
+
+# To-Do List
+- [ ] https://github.com/TeamUtils/bookmarklets/issues/15
+- [ ] https://github.com/TeamUtils/bookmarklets/issues/16
+- [ ] https://github.com/TeamUtils/bookmarklets/issues/17
+- [ ] https://github.com/TeamUtils/bookmarklets/issues/18
