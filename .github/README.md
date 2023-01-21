@@ -1,6 +1,10 @@
 # bookmarklets
 Ultimate Repo of bookmarklets
 
+# Discord Server
+
+https://discord.gg/TCmE9s4xxJ
+
 # Credits
 As a professional script-kiddie I am not capable of making these scripts, only basic maintaining. As such, I give Credit to @rxzyx for most of these scripts, and the rest are unknown developers, although I send kudos to them.  
 
