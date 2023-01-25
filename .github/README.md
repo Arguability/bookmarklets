@@ -1,6 +1,10 @@
 # bookmarklets
 Ultimate Repo of bookmarklets
 
+# Content Removal
+
+None of these scripts are mine, other than "edit HTML" as such, if you made a script that I used, you reserve all rights to request a removal. Please create an issue if you request that it is deleted from this repository, and we will (most likely) comply with your request. We may request proof of code ownership.
+
 # Discord Server
 
 https://discord.gg/TCmE9s4xxJ
