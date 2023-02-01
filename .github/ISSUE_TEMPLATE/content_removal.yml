@@ -1,0 +1,42 @@
+name: Content Removal Request
+description: Request removal of Content
+title: "[Removal]: "
+labels: ["content removal"]
+assignees:
+  - Believaboat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: email
+    attributes:
+      label: Your email
+      description: We require an email in case private inquires must be made
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: what-content
+    attributes:
+      label: What content would you like removed?
+      description: What would you like removed
+      placeholder: foo/bar.js
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: Proof of ownership
+      description: Please send proof of ownership, whether that be a GitHub repo, or relevant files.
+    validations: 
+        required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our Code of Conduct.
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
