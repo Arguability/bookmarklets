@@ -1,3 +1,5 @@
+<img src="https://github.com/Blooket-Cheats/Blooket-Hacks/blob/main/images/head.png?raw=true" width="100%" height="20%" />
+
 # bookmarklets
 Ultimate Repo of bookmarklets
 
@@ -28,3 +30,5 @@ Our IRC channels are #teamutils, #teamutils-bugs, and #teamutils-staff (invite-o
 
 ## Channel operators/voiced users
 Operators are only used for kicking/banning and other irc changes only. Voiced and OPed users are staff
+
+<img src="https://github.com/Blooket-Cheats/Blooket-Hacks/blob/main/images/foot.png?raw=true" width="100%" height="20%" />
